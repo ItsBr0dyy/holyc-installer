@@ -13,6 +13,11 @@
 
 Official Docs: https://holyc-lang.com/
 
+## Dependencies
+
+- Git
+- Make
+
 ## Installation
 
 Windows:
